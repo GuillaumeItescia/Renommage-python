@@ -1,0 +1,1 @@
+Regle test;lettre;AB;_pre_;True;test;_suf_;.txt
